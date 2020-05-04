@@ -19,13 +19,13 @@ Also a project from the course. The purpose was making us get familiar with the 
 ## Schrodinger Equation
 Also a project from the course. We used the method called *Numerove Algorithm* to solve the stationary schrodinger equation which is a parial differential equation. As for the eigenvalue problem, we used the *shooting method*.
 
-##PDE
+## PDE
 Including some code now, I might will update some more numerical PDE method. 
 
 ## Monte Carlo Method
 Still updating
 
-## Practice Articla
+## Practice Articles
 Upload my four practice project articles. 
 
  
