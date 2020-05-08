@@ -19,6 +19,9 @@ Also a project from the course. The purpose was making us get familiar with the 
 ## Schrodinger Equation
 Also a project from the course. We used the method called *Numerove Algorithm* to solve the stationary schrodinger equation which is a parial differential equation. As for the eigenvalue problem, we used the *shooting method*.
 
+## Variational Method
+By using variational principle, giving an eatimation of stationary state schrodinger equation. Concrete steps are mainly depend on the numerical linear algebra. Including diagonalization and the generalised eigenvalue problem.
+
 ## PDE
 Including some code now, I might will update some more numerical PDE method. 
 
