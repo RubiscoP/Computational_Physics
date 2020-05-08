@@ -24,3 +24,6 @@ The variational principle says that the expectation of Hamiltonian $H$ over an a
 * Solve the transformed equation $H'C'=EC'$.
 * $C=VC'$.
 
+# This File Includes:
+
+An example of infinite square well ``` variationMTD.py``` and an estimation of hydrogen's ground state energy```variationHYD```.
